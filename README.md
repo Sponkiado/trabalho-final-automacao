@@ -38,6 +38,4 @@ Simula uma operação assíncrona retornando um dado após um pequeno atraso.
 ## ✅ Estrutura de Arquivos
 
 - `trabalho.js` → Arquivo principal com todas as funções.
-- `trabalho-final.js` → Arquivo fornecido pela disciplina, com os testes automatizados. **(não alterado)**
-
-
+- `test/trabalho-final.js` → Arquivo fornecido pela disciplina, com os testes automatizados. **(não alterado)**
